@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.YTLite" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/app_black</item>
+        <item name="android:statusBarColor">@color/app_black</item>
+        <item name="android:navigationBarColor">@color/app_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
